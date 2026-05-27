@@ -3,7 +3,6 @@
 🎓 Computer Science Student | Aspiring Full Stack Developer
 
 🌱 I'm currently learning **Python, JavaScript, Git & Web Development**
-🔭 I'm currently working on **SkillCraft Internship Projects**
 👯 I'm looking to collaborate on **Open Source Projects (GSSoC)**
 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, Python**
 📫 How to reach me: **tharsigamanivathanan@gmail.com**
