@@ -17,3 +17,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## 🏅 GSSoC 2026 Badges
+
+<img src="./assets/gssoc-badge-rising_star.png" width="120" />
+<img src="./assets/gssoc-badge-point_scorer.png" width="120" />
