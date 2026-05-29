@@ -20,5 +20,11 @@
 
 ## 🏅 GSSoC 2026 Badges
 
-<img src="./assets/gssoc-badge-rising_star.png" width="120" />
-<img src="./assets/gssoc-badge-point_scorer.png" width="120" />
+<img src="./gssoc-badge-rising_star.png" width="120" />
+<img src="./gssoc-badge-bounty_master.png" width="120" />
+<img src="./gssoc-badge-bounty_hunter.png" width="120" />
+<img src="./gssoc-badge-point_scorer.png" width="120" />
+<img src="./gssoc-badge-first_steps.png" width="120" />
+<img src="./gssoc-badge-discord_verified.png" width="120" />
+<img src="./gssoc-badge-profile_complete.png" width="120" />
+<img src="./gssoc-badge-role_contributor.png" width="120" />
