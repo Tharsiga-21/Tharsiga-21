@@ -20,13 +20,15 @@
 
 ## 🏅 GSSoC 2026 Badges
 
-<p>
-  <img src="./gssoc-badge-rising_star.png" width="100" />
-  <img src="./gssoc-badge-bounty_master.png" width="100" />
-  <img src="./gssoc-badge-bounty_hunter.png" width="100" />
-  <img src="./gssoc-badge-point_scorer.png" width="100" />
-  <img src="./gssoc-badge-first_steps.png" width="100" />
-  <img src="./gssoc-badge-discord_verified.png" width="100" />
-  <img src="./gssoc-badge-profile_complete.png" width="100" />
-  <img src="./gssoc-badge-role_contributor.png" width="100" />
-</p>
+<a href="https://gssoc.girlscript.org/profile/ee5a7807-ceba-4ee7-886c-f2511ed62cf1" target="_blank">
+  <p>
+    <img src="./gssoc-badge-rising_star.png" width="100" />
+    <img src="./gssoc-badge-bounty_master.png" width="100" />
+    <img src="./gssoc-badge-bounty_hunter.png" width="100" />
+    <img src="./gssoc-badge-point_scorer.png" width="100" />
+    <img src="./gssoc-badge-first_steps.png" width="100" />
+    <img src="./gssoc-badge-discord_verified.png" width="100" />
+    <img src="./gssoc-badge-profile_complete.png" width="100" />
+    <img src="./gssoc-badge-role_contributor.png" width="100" />
+  </p>
+</a>
