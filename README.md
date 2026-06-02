@@ -32,6 +32,7 @@
   <img src="./gssoc-badge-profile_complete.png" width="85" title="Profile Complete" />
   &nbsp;&nbsp;
   <img src="./gssoc-badge-role_contributor.png" width="85" title="Role Contributor" />
+   <img src="./gssoc-badge-getting_started.png" width="85" title="Role Contributor" />
 </p>
 
 <p align="center">
@@ -42,6 +43,7 @@
   <img src="./gssoc-badge-bounty_master.png" width="85" title="Bounty Master" />
   &nbsp;&nbsp;
   <img src="./gssoc-badge-rising_star.png" width="85" title="Rising Star" />
+   <img src="./gssoc-badge-week_one.png" width="85" title="Rising Star" />
 </p>
 
 ---
