@@ -21,31 +21,29 @@
 ✨ Exploring. Learning. Leading. Always.
 
 ---
-
 ## 🏅 GSSoC 2026 Badges
-
 <p align="center">
-  <img src="./gssoc-badge-first_steps.png" width="85" title="First Steps" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-first_steps.png" width="85" title="First Steps" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-discord_verified.png" width="85" title="Discord Verified" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-discord_verified.png" width="85" title="Discord Verified" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-profile_complete.png" width="85" title="Profile Complete" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-profile_complete.png" width="85" title="Profile Complete" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-role_contributor.png" width="85" title="Role Contributor" />
-   <img src="./gssoc-badge-getting_started.png" width="85" title="Role Contributor" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-role_contributor.png" width="85" title="Role Contributor" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-getting_started.png" width="85" title="Getting Started" />
 </p>
-
 <p align="center">
-  <img src="./gssoc-badge-point_scorer.png" width="85" title="Point Scorer" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-point_scorer.png" width="85" title="Point Scorer" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-bounty_hunter.png" width="85" title="Bounty Hunter" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-bounty_hunter.png" width="85" title="Bounty Hunter" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-bounty_master.png" width="85" title="Bounty Master" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-bounty_master.png" width="85" title="Bounty Master" />
   &nbsp;&nbsp;
-  <img src="./gssoc-badge-rising_star.png" width="85" title="Rising Star" />
-   <img src="./gssoc-badge-week_one.png" width="85" title="Rising Star" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-rising_star.png" width="85" title="Rising Star" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-week_one.png" width="85" title="Week One" />
 </p>
-
 ---
 
 ## 🛠️ Skills & Technologies
