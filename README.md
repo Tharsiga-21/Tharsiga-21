@@ -67,6 +67,11 @@
 </p>
 
 ---
+## 🐍 Contribution Journey
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ## 📊 GitHub Stats
 
