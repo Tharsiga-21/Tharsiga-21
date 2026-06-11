@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-role_contributor.png" width="85" title="Role Contributor" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-getting_started.png" width="85" title="Getting Started" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-building_momentum.png" width="85" title="Building Momentum" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-point_scorer.png" width="85" title="Point Scorer" />
@@ -43,6 +44,9 @@
   <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-rising_star.png" width="85" title="Rising Star" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-week_one.png" width="85" title="Week One" />
+  <img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-power_contributor__1_.png" width="85" title="Power Contributor" />
+  &nbsp;&nbsp;
+
 </p>
 ---
 
