@@ -22,22 +22,19 @@
 
 ---
 ## 🏅 GSSoC 2026 Badges
-
 <table align="center" border="0" cellspacing="0" cellpadding="16">
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-elite.png" width="100" /><br/><sub><b>Elite</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-consistent.png" width="100" /><br/><sub><b>Consistent</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-power_contributor.png" width="100" /><br/><sub><b>Power Contributor</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-rising_star.png" width="100" /><br/><sub><b>Rising Star</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-bounty_master.png" width="100" /><br/><sub><b>Bounty Master</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-building_momentum.png" width="100" /><br/><sub><b>Building Momentum</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-first_steps.png" width="100" /><br/><sub><b>First Steps</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-discord_verified.png" width="100" /><br/><sub><b>Discord Verified</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-profile_complete.png" width="100" /><br/><sub><b>Profile Complete</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-building_momentum.png" width="100" /><br/><sub><b>Building Momentum</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-point_scorer.png" width="100" /><br/><sub><b>Point Scorer</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-bounty_hunter.png" width="100" /><br/><sub><b>Bounty Hunter</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-role_contributor.png" width="100" /><br/><sub><b>Role Contributor</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-getting_started.png" width="100" /><br/><sub><b>Getting Started</b></sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tharsiga-21/Tharsiga-21/main/gssoc-badge-week_one.png" width="100" /><br/><sub><b>Week One</b></sub></td>
   </tr>
 </table>
