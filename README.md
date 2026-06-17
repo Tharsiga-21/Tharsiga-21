@@ -20,6 +20,8 @@
 
 ✨ Exploring. Learning. Leading. Always.
 
+ I'm developing skills in frontend development, collaboration, and problem-solving. I'm drawn to environments where I can take initiative, work with others, and grow through real-world experience.
+
 ---
 ## 🏅 GSSoC 2026 Badges
 <table align="center" border="0" cellspacing="0" cellpadding="16">
