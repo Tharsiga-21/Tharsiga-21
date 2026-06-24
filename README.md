@@ -7,6 +7,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+(GSSoC)+%F0%9F%8C%9F;%22Build+things.+Break+things.+Learn+everything.%22;%22Code+is+not+just+logic+%E2%80%94+it%27s+expression.%22" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharsiga-m-b97626365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tharsigamanivathanan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
